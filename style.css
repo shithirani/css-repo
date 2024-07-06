@@ -4,4 +4,13 @@ p{
 .font{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: oblique;
+    background-color: brown;
+    
+    background-image: url(img_mountains.jpg);
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+   
+    
 }
